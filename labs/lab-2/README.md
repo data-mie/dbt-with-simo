@@ -1,0 +1,3 @@
+## Lab 2: Extending SQL with macros and tests
+
+🔨 This lab is under construction...
