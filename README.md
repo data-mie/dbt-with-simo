@@ -6,4 +6,4 @@ Hey there 👋 Welcome to the "dbt with Simo" training repository! This repo con
 
 * [Lab 1: Basic building blocks of dbt](labs/lab-1/README.md)
 * [Lab 2: Extending SQL with macros and tests](labs/lab-2/README.md)
-* [Lab 3: Refactoring and optimizing your code](labs/lab-3/README.md)
+* [Lab 3: Refactoring and optimizing SQL code](labs/lab-3/README.md)

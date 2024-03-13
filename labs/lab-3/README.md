@@ -1,3 +1,3 @@
-## Lab 3: Refactoring and optimizing your code
+## Lab 3: Refactoring and optimizing SQL code
 
 🔨 This lab is under construction...
